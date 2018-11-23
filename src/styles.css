@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.loading {
+  position: fixed;
+  left: 50%;
+  top: 35%;
+  font-size: 75pt;
+}
+
+.controls-header {
+  margin-bottom: 10px;
+  margin-left: 5px;
+  float: left;
+  width: 600px;
+}
+
+input.search-input {
+  display: inline-block;
+  width: 300px;
+}
